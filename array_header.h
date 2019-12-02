@@ -1,0 +1,2 @@
+
+float* func(float*,int);
